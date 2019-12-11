@@ -1,0 +1,25 @@
+.btn-scroll-up {
+	display: none;
+	padding: 10px;
+	border-radius: 50px;
+/*
+	opacity: 0.7;
+*/
+	background: #F2711C;
+	font-size: 20px;
+	color: #fff;
+	cursor: pointer;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	z-index: 1000;
+}
+
+.btn-scroll-up i {
+	margin: 0px !important;
+}
+
+.btn-scroll-up {
+	bottom: 10px !important;
+	right: 10px !important;
+}
